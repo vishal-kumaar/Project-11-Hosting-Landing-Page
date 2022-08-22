@@ -44,6 +44,10 @@ nav {
     color: #000000;
 }
 
+.ham-burger {
+    width: 25px;
+}
+
 .button {
     text-decoration: none;
     color: #07A0F3;
