@@ -1,6 +1,5 @@
 ## 🔗Project Link
-https://html5-css3-project-11.netlify.app/
-
+https://hosting-landing-site.vercel.app/
 
 # ✨ Project 11 : Hosting Landing Page ✨
 This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.
