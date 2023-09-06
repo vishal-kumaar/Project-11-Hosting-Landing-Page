@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://hosting-landing-site.vercel.app/
+https://vishal-kumaar.github.io/Project-11-Hosting-Landing-Page/
 
 # ✨ Project 11 : Hosting Landing Page ✨
 This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.
